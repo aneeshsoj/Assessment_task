@@ -88,7 +88,7 @@ terragrunt apply
 
 
 #### References
-https://registry.terraform.io/providers/hashicorp/aws/latest/docs
-https://www.architect.io/blog/2021-03-30/create-and-manage-an-aws-ecs-cluster-with-terraform/
-https://blog.gruntwork.io/how-to-manage-multiple-environments-with-terraform-using-terragrunt-2c3e32fc60a8
-https://cwong47.gitlab.io/technology-blue-green-deployment/
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs    
+https://www.architect.io/blog/2021-03-30/create-and-manage-an-aws-ecs-cluster-with-terraform/.   
+https://blog.gruntwork.io/how-to-manage-multiple-environments-with-terraform-using-terragrunt-2c3e32fc60a8.   
+https://cwong47.gitlab.io/technology-blue-green-deployment/.   
